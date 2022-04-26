@@ -2,15 +2,18 @@
     background-color: #ee2d87;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#foo {
-    color:#1111b8;
-    font-size: 36px;
-}
+
 .bar {
     font-size: 24px;
 }
+
 #big {
     background-color: #0e960e;
     font-size: 24px;
     font-weight: bold;
+}
+
+#foo {
+    color:#1111b8;
+    font-size: 36px;
 }
